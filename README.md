@@ -91,7 +91,7 @@ Each SQL join provided unique insights into the data:
 ✅ RIGHT JOIN allowed us to focus on orders while ensuring each had a valid customer entry.
 ✅ FULL OUTER JOIN provided a complete picture, showing all customers and all orders, whether they were linked or not.
 
-By using these joins, we could extract valuable business insights, such as identifying loyal customers, tracking purchasing behavior, and detecting unfulfilled potential (customers without orders). This approach demonstrated how SQL joins play a crucial role in real-world database management and decision-making. 🚀
+By using these joins, we could extract valuable business insights, such as identifying loyal customers, tracking purchasing behavior, and detecting unfulfilled potential (customers without orders). This approach demonstrated how SQL joins play a crucial role in real-world database management and decision-making. 
 
 Conclusion
 This exercise illustrated the power of SQL joins in merging and analyzing related datasets. By designing structured queries, we could effectively retrieve and interpret customer-order relationships. The use of different join types allowed us to explore various perspectives of the data, making it easier to derive business intelligence from database records. Understanding these concepts is essential for database administrators, analysts, and developers working with relational databases.
