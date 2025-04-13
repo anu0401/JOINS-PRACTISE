@@ -95,3 +95,12 @@ By using these joins, we could extract valuable business insights, such as ident
 
 Conclusion
 This exercise illustrated the power of SQL joins in merging and analyzing related datasets. By designing structured queries, we could effectively retrieve and interpret customer-order relationships. The use of different join types allowed us to explore various perspectives of the data, making it easier to derive business intelligence from database records. Understanding these concepts is essential for database administrators, analysts, and developers working with relational databases.
+
+#OUTPUT
+![Image](https://github.com/user-attachments/assets/b86bdb14-2961-40e1-9ded-7bc17d8508aa)
+
+![Image](https://github.com/user-attachments/assets/6d0b7fc8-a21e-4e2b-8d15-c92aefaab610)
+
+![Image](https://github.com/user-attachments/assets/b70baefe-9d1d-4451-9712-ae41377ca99b)
+
+![Image](https://github.com/user-attachments/assets/695f6456-f125-4de7-927a-0cc0b220bbd3)
